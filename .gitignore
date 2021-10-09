@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/HarshLearning.BookStore/.vs/HarshLearning.BookStore/v16
+/HarshLearning.BookStore/HarshLearning.BookStore/bin/Debug/net5.0
+/HarshLearning.BookStore/HarshLearning.BookStore/obj
+/HarshLearning.BookStore/.vs/HarshLearning.BookStore/config
